@@ -1,4 +1,4 @@
-#!/bin/bash
+!/bin/bash
 echo "Enter number : "
 read n
 rem=$(($n % 2))

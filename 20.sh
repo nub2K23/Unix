@@ -1,4 +1,4 @@
-#!/bin/bash
+!/bin/bash
 echo “----FIND THE GREATEST AMONG THREE NUMBERS----“
 echo “Enter num1:”
 read num1

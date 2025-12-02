@@ -1,4 +1,4 @@
-#!/bin/bash
-sum=$($1 + $2)
-echo “sum is : $sum”
+!/bin/bash
+sum=$(($1 + $2))
+echo "sum is : $sum"
 

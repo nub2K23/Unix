@@ -1,8 +1,8 @@
-#!/bin/bash
-echo “Enter first number:”
+!/bin/bash
+echo "Enter first number:"
 read num1
-echo “Enter second number:”
+echo "Enter second number:"
 read num2
-sum=$(expr “$num1” + “$num2”)
-echo “sum of two values is : $sum”
+sum=$(expr "$num1" + "$num2")
+echo "sum of two values is : $sum"
 
