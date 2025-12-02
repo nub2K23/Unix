@@ -1,8 +1,8 @@
-#!/bin/bash
-Echo “Enter an integer for the bash :”
+!/bin/bash
+echo "Enter an integer for the base:"
 read m
-echo “Enter a positive integer for the power:”
+echo "Enter a positive integer for the power:"
 read n
-c=$$($m ** $n)
-echo “ “
-echo “$m raised to the power of $n is : $c”
+c=$((m ** n))
+echo " "
+echo "$m raised to the power of $n is : $c"

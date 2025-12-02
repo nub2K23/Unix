@@ -1,9 +1,9 @@
-#!/bin/bash
-Echo “Enter a number:
+!/bin/bash
+echo "Enter a number:"
 read num
 fact=1
-for ((i = 1; i <= n; i++)); do
+for ((i = 1; i <= num; i++)); do
   fact=$((fact * i))
 done
-echo "Factorial of $n is $fact"
+echo "Factorial of $num is $fact"
 

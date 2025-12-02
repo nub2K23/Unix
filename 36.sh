@@ -1,4 +1,4 @@
-#!/bin/bash
+!/bin/bash
 echo "Enter first filename:"
 read f1
 echo "Enter second filename:"

@@ -1,4 +1,4 @@
-#!/bin/bash
+!/bin/bash
 echo "1. List files"
 echo "2. Show date"
 echo "3. Show current directory"
