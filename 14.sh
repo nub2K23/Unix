@@ -5,3 +5,4 @@ echo “Enter second number:”
 read num2
 sum=$(expr “$num1” + “$num2”)
 echo “sum of two values is : $sum”
+
