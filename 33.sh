@@ -1,4 +1,4 @@
-!/bin/bash
+#!/bin/bash
 factorial() {
   num=$1
   fact=1

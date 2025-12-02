@@ -1,4 +1,4 @@
-!/bin/bash
+#!/bin/bash
 echo "Enter an integer for the base:"
 read m
 echo "Enter a positive integer for the power:"

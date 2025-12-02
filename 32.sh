@@ -1,4 +1,4 @@
-!/bin/bash
+#!/bin/bash
 # Function to find sum
 sum() {
   s=$(($1 + $2))

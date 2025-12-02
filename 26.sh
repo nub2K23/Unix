@@ -1,4 +1,4 @@
-!/bin/bash
+#!/bin/bash
 echo "Enter a number:"
 read n
 if [ $n -le 1 ]; then

@@ -1,4 +1,4 @@
-!/bin/bash
+#!/bin/bash
 echo "Enter a number:"
 read num
 if [ $num -lt 0 ]; then

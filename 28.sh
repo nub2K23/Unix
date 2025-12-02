@@ -1,4 +1,4 @@
-!/bin/bash
+#!/bin/bash
 echo "Enter two numbers:"
 read a b
 x=$a

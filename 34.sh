@@ -1,4 +1,4 @@
-!/bin/bash
+#!/bin/bash
 # Display sorted list of logged-in users and total count
 
 echo "Sorted list of users:"

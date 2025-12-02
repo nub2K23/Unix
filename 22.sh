@@ -1,4 +1,4 @@
-!/bin/bash
+#!/bin/bash
 echo "Enter a number:"
 read num
 fact=1
