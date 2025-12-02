@@ -3,7 +3,6 @@
 sum() {
   s=$(($1 + $2))
   echo "Sum = $s"
-
 }
 echo "Enter two numbers:"
 read a b
