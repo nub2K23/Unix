@@ -7,3 +7,4 @@ who | sort
 echo " "
 echo "Total number of users logged in:"
 who | wc -l
+
