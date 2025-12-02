@@ -9,4 +9,3 @@ elif [ $num -gt 0 ]; then
 else
   echo “Neither positive nor negative”
 fi
-
