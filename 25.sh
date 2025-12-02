@@ -1,7 +1,7 @@
 #!/bin/bash
 echo "Enter a number:"
 read n
-num = $n
+num=$n
 sum=0
 while [ $num -gt 0 ]; do
   r=$((num % 10))          # extract digit
